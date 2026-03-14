@@ -1,6 +1,6 @@
 # Power BI Business Performance Dashboard
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](<dashboard overview.png>)
 
 ## Overview
 
@@ -15,7 +15,7 @@ It demonstrates how transactional e-commerce data can be transformed into **clea
 ## Dataset
 
 Source: Kaggle – Cleaned UCI Online Retail Dataset
-
+x`
 The dataset contains e-commerce transaction records including:
 
 - Invoice information  
