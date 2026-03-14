@@ -1,5 +1,5 @@
 # Power BI Business Performance Dashboard
-
+images/dashboard overview.png
 ![Dashboard Preview](<dashboard overview.png>)
 
 ## Overview
